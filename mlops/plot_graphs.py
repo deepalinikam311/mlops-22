@@ -7,7 +7,7 @@
 # Import datasets, classifiers and performance metrics
 
 
-#testing from feature/final_exam branch
+#testing from feature/final_exam branch  this is demo
 from sklearn import datasets, svm, metrics, tree
 import pdb
 
